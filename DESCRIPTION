@@ -17,3 +17,5 @@ Roxygen: list(markdown = TRUE)
 Config/roxygen2/version: 8.1.0
 Imports: 
     ggplot2
+URL: https://github.com/EC-53/myfunctions
+BugReports: https://github.com/EC-53/myfunctions/issues
