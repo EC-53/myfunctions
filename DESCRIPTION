@@ -1,0 +1,17 @@
+Package: myfunctions
+Type: Package
+Title: Functions I Might Want to Re-Use
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Charlotte", "K",
+      email = "325312549+EC-53@users.noreply.github.com",
+      role = c("aut", "cre")
+    )
+  )
+Description: The package contains functions that I might want to re-use.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+Config/roxygen2/version: 8.1.0
